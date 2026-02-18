@@ -1,0 +1,4 @@
+vendor
+*/*/upstream/go-jsonnet/*.go
+*/*/upstream/go-jsonnet/*/*.go
+bin

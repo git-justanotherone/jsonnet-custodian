@@ -1,0 +1,6 @@
+{
+    "name": "repoA",
+    "require": {
+        "modB": "repoB@v0.0.2"
+    }
+}
