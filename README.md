@@ -10,6 +10,12 @@
 
 - **Jsonnet-compatible subcommand**: Includes a `custodian jsonnet` subcommand with behavior nearly identical to the original, enabling seamless integration. This subcommand is necessary because the original binary cannot resolve imports correctly. There is a possibility that a compatibility mode will be added in the near future, but it is not a priority.
 
+### Planned
+    
+- Support for modules in subdirectories
+- Compatibility with jsonnet-bundler modules
+- Compatibility mode with the jsonnet command
+
 ## Installation
 
 Clone the repository and install dependencies:
